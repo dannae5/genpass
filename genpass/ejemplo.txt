@@ -1,0 +1,25 @@
+Longitud deseada: 16
+¿Usar caracteres especiales? (s/n): s
+Cantidad de especiales: 2
+¿Usar números? (s/n): s
+Cantidad de números: 3
+Palabra base (opcional): claveSegura
+¿Cuántas contraseñas generar?: 1
+
+🔐 Contraseña 1: claveSegura$1@8nL
+¿Aplicar hash? (s/n): s
+Tipo de hash (ej. sha256, md5, sha1): sha256
+🔐 Hash generado: 4f30e... (etc)
+¿Guardar en archivo? (s/n): s
+Nombre del archivo (ej. passwords.txt): mis_claves.txt
+✅ Contraseña guardada en 'mis_claves.txt'
+¿Copiar al portapapeles? (s/n): s
+📋 Contraseña copiada al portapapeles.
+
+
+resultado:
+¿Cuántas contraseñas aleatorias generar?: 3
+
+🔐 Contraseña 1: 9@xKJg4T!aOpI7
+🔐 Contraseña 2: v5#uDp@1GLF9qz
+🔐 Contraseña 3: rZ!tP6q9@Ny4Am
